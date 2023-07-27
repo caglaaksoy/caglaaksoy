@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Çağla</h1>
-<h3 align="center">Hello, I'm Çağla Aksoy. I am 3rd year in computer engineering at Gazi University. I am interested in the software industry and I want to improve myself in this field.</h3>
+<h3 align="center">Hello, I'm Çağla Aksoy. I am 4th year in computer engineering at Gazi University. I am interested in the software industry and I want to improve myself in this field.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
