@@ -1,0 +1,830 @@
+Cancer Causes and Control, 1997, 8, pp. 271-283
+
+
+
+REVIEW PAPERS
+
+
+Sunlight and cancer                                                                                       Cancer Causes and Control. Vol 8. 1997
+
+
+
+
+Dallas R English, Bruce K Armstrong, Anne Kricker,
+and Claire Fleming
+
+(Received 3 June 1996; accepted in revised form 19 August 1996)
+
+
+Epidemiologic evidence on the relation between sunlight and cancer is reviewed. Strong evidence implicates sunlight
+as a cause of skin cancer, although, for melanoma and basal cell carcinoma, the relationship is complex. Both types
+of cancer are associated more strongly with nonoccupational exposure than with occupational exposure, and the
+pattern and amount of exposure each appear to be important. Squamous cell carcinoma appears to be related more
+strongly to total (i.e., both occupational and nonoccupational) exposure to the sun. The evidence that sunlight
+causes melanoma of the eye is weak. It shows no latitude gradient and the results of case-control studies are conflicting.
+There is inadequate evidence to suggest that sunlight does or does not cause any other type of cancer. Cancer Causes
+and Control 1997, 8, 271-283
+
+Key words: Melanoma, skin neoplasms, sunlight.
+
+
+Introduction
+Strictly speaking, sunlight is visible light from the sun.         Six categories of epidemiologic evidence are relevant
+We are using the term loosely here to refer to the ultra-       to the proposition that sunlight causes skin cancer. They
+violet (UV) radiation (wavelengths from about 295 to 400        are that these cancers are: (i) more frequent in residents
+nm) and visible light (400 to 780 nm) that reach the surface    of areas of high ambient solar irradiance; (ii) more frequent
+of the earth. UV radiation of less than about 295 nm does       in sun-sensitive people; (iii) occur mainly on sun-exposed
+not reach the earth’s surface because it is absorbed by the     body sites; (iv) more frequent in people with high sun
+atmosphere.                                                     exposure; (v) more frequent in people with benign sun-
+   UV radiation is probably responsible for all the             related skin conditions; and (vi) reduced by protection of
+carcinogenic effects of sunlight. UVB (280 to 315 nm) is        the skin against the sun. Evidence can be gained within each
+much more effective at producing cancer in animals,             of these categories by both descriptive and analytical studies.
+erythema (sunburn) in humans, and DNA damage, than                 We review here the epidemiology of cancers of the skin
+is UVA (315 to 400 nm) – wavelengths of about 340 nm            – melanoma, and the nonmelanocytic skin cancers
+or more are less than 1/1,000 times as potent in causing        squamous cell carcinoma (SCC) and basal cell carcinoma
+cancer in experimental animals as wavelengths of about          (BCC) – and melanoma of the eye. We also briefly discuss
+295 nm.1 It is difficult to separate the effects of UVB,        other neoplasms for which relationships with sunlight
+UVA, and visible light in epidemiologic studies; thus,          have been postulated. Our aim is to produce a synthesis
+epidemiologic studies generally deal with sunlight as a         of the evidence relating sunlight to cancer and to identify
+whole rather than with any of its components.                   areas for further research.
+
+Dr English is with the Department of Public Health, The University of Western Australia. Dr Armstrong and Ms Fleming are with
+the NSW Cancer Council, Woolloomooloo, NSW, Australia. Dr Kricker is with the National Breast Cancer Center, Woolloomooloo,
+NSW, Australia. Address correspondence to Dr English, Department of Public Health, University of Western Australia, Perth, WA
+6907, Australia. Financial support was provided, in part, by the Cancer Foundation of Western Australia, the Health Promotion
+Foundation of WA, and the Australian Rotary Health Research Fund.
+
+© 1997 Rapid Science Publishers                                                          Cancer Causes and Control. Vol 8. 1997           271
+D.R. English et al
+
+
+Melanoma of the skin
+                                                                  at arrival of these migrants in the host country is a
+Descriptive studies
+                                                                  powerful predictor of subsequent risk of melanoma –
+Ethnic origin. Melanoma is predominantly a disease of             the older the age at arrival, the lower the incidence.5,7
+people of European origin. In the United States, its inci-        However, it is not possible to distinguish age at arrival
+dence is some 20-fold higher in Whites than Blacks.2 Rates        from duration of residence in these studies.
+of melanoma are also very low in Asians in the US and
+very low in Asia.2                                                Occupation. I n c i d e n c e a n d m o r t a l i t y r a t e s o f
+                                                                  melanoma are generally higher among indoor workers
+Place of residence. The incidence of melanoma is great-           than outdoor workers,8-10 which is not consistent with
+est in the White population of Australia, a sun-sensitive         a simple relationship between sun exposure and
+population in an area of high ambient sunlight2 and               melanoma. They are also higher in people of high
+increases with proximity to the equator in many popu-             socioeconomic status than of low socioeconomic status.
+lations.3,4 In Europe, however, incidence of melanoma             In the absence of any plausible alternative explanation,
+is higher in Norway and Sweden in the north than in               this relationship with socioeconomic status is pre-
+France, Italy, and Spain in the south.2 This apparent             sumed to be due to complex effects of sun exposure.
+anomaly may be due to the tendency for skin color
+in Europe to increase in darkness with increasing prox-           Anatomic site. In a recent Australian survey,11 mela-
+imity to the equator.3                                            noma had its highest density on the usually exposed
+                                                                  parts of the head and neck and its lowest density on
+Migration. When people of European origin migrate                 rarely exposed sites (buttocks and abdomen in both
+from areas of low incidence of melanoma and generally             genders and scalp in women). Its density was low on
+low ambient sunlight to areas of high incidence and               the forearms, backs of hands, upper arms and lower
+higher ambient sunlight, their subsequent rates of                limbs, and intermediate on the sometimes exposed
+melanoma are generally higher than those in their home            shoulders and back in both genders and the chest in
+country and less than those in the host country.5,6 Age           males (Table 1).
+
+
+Table 1. Surface density of occurrence of cutaneous melanoma, basal cell carcinoma (BCC), and squamous cell carcinoma
+                                                                                               a
+(SCC) by body site, relative to a density of 1.0 for the whole body in whole population series
+
+                                                             Melanoma                          BCC                    SCC
+                                                   Level 1              Level 2+
+Men
+ Usually exposed
+  Scalp, face, neck, ears                            4.9                 2.0                   3.9                    6.5
+  Forearms, backs of hands                           0.8                 0.5                   1.4                    2.0
+ Occasionally exposed
+  Shoulders, back, chest                             1.7                 2.5                   1.8                    0.3
+  Upper arms, lower limbs                            0.3                 0.5                   0.4                    0.3
+ Rarely exposed
+  Abdomen, buttocks                                  0.2                 0.2                   0.0                    0.0
+Women
+ Usually exposed
+  Face, neck                                         7.6                 2.5                   6.7                    8.9
+  Forearms, backs of hands                           0.8                 0.6                   1.3                    3.3
+ Occasionally exposed
+  Shoulders, back                                    0.9                 1.8                   1.8                    0.2
+  Upper arms, lower limbs                            0.8                 1.1                   0.5                    0.4
+ Rarely exposed
+  Scalp, ears, chest, abdomen, buttocks              0.3                 0.3                   0.2                    0.4
+a                                            11
+    Data on melanoma are from Green et al;        data on BCC and SCC are unpublished observations based on incident cases
+    from Geraldton, Western Australia.
+
+272 Cancer Causes and Control. Vol 8. 1997
+                                                                                                              Sunlight and cancer
+
+
+Analytic studies                                                 were observed, and a statistically significant negative
+                                                                 association was observed in one. The three positive asso-
+Sensitivity of skin to sunlight. People who sunburn easily
+                                                                 ciations were from studies in France and Spain.
+and tan poorly are at increased risk of melanoma.12 In two
+recent case-control studies from the western US,13,14 risk
+relative to that in those who developed a deep tan                 Recent total exposure. The measures of recent or
+following chronic sun exposure increased steadily to 9.0         usual total exposure to sunlight are a heterogeneous
+(95 percent confidence interval [CI] = 3.8-21.1) in those        and often crude group mainly concentrated on sun
+who developed no tan or only freckles and to 2.6 (CI =           exposure in the 10 to 20 years before diagnosis of
+1.6-4.1) in those who burnt without tanning following            melanoma. Studies using them have found no consis-
+acute exposure.                                                  tent pattern of association with melanoma (Table 2).
+
+                                                                    Occupational exposure. Twenty case-control studies
+Ambient sunlight at places of residence. Associations
+                                                                 and one cohort study have examined the relationship
+between melanoma and measures of ambient sunlight
+                                                                 between estimated occupational exposure to sunlight
+at places of residence and measures of personal expo-
+                                                                 and melanoma; they have shown negative associations
+su re to sunlight in case-control or cohort studies
+                                                                 as often as positive ones (Table 2). Two of the studies
+published since about 1980 are summarized in Table
+                                                                 showing positive associations were based on an analy-
+2. This table is based on recent reviews12,15 and recently
+                                                                 sis of occupational titles, not on specific estimation of
+published studies.14,16-23
+                                                                 occupational exposure. The remaining three studies
+   Eight out of 10 studies showed significant associations       were all from Europe and included two of the southern
+between risk of melanoma and measures of ambient sun-            European studies23,26 in which positive associations
+light at places of residence (e.g., daily hours of bright        with lifetime total sun-exposure were observed.
+sunlight at places of residence and history of residence            Some understanding of these seemingly contradictory
+closer to or farther from the equator than the study area).      results is offered by studies which suggest that melanoma
+The relative risks (RR) for the highest exposure categories      on body sites that usually are covered is highest in office
+varied between 1.7 and 8.0. The remaining two studies            workers, whereas the incidence on sites that usually are
+showed weakly positive associations. The strongest asso-         exposed is as high or higher in outdoor workers.27,28 Thus,
+ciation (RR = 8.0, CI = 2.0-34.7) was in US veterans of          contradictory results well may arise as a result of differ-
+World War II who served in the tropics compared with             ences in the distributions of indoor and outdoor workers
+other men of draft age who did not serve or did not serve        in the population, and resulting differences in distribu-
+in the tropics.24                                                tions of melanoma by body site.
+Exposure of skin to sunlight.
+                                                                    Nonoccupational exposure. A majority of studies of
+   Lifetime total exposure. By ‘total exposure’ we mean          nonoccupational exposure to sunlight and melanoma
+occupational and nonoccupational exposure together. Six          has observed statistically significant, positive associa-
+case-control studies of melanoma have attempted to               tions (Table 2). These results have come from a variety
+estimate lifetime total exposure to sunlight (Table 2). In       of different measures of exposure such as time spent
+three,23,25,26 statistically significant positive associations   sunbathing, time spent in sunny vacations, estimated
+
+                                                                                                                                   a
+Table 2. Summary of results of case-control or cohort studies of sunlight exposure and melanoma reported from 1980 to 1996
+
+Measure of sun exposure                     Number of studies        Associations between sunlight and melanoma
+                                                                 Number positive       Number null           Number negative
+Ambient sunlight at places of residence         10                       8                    2                           0
+Personal exposure to sunlight
+ Lifetime total exposure                         6                      3                     2                           1
+ Recent or usual total exposure                  6                      1                     4                           1
+Occupational exposure                           20                      5                    10                           5
+Nonoccupational exposure                        21                     12                     8                           1
+History of sunburn                              24                     21                     3                           0
+Other sunlight-related skin damage               8                      7                     1                           0
+a                                                                                                                    15
+    Table includes results of studies summarized in reviews by the International Agency for Research on Cancer,           Armstrong
+                 12
+    and English, and those of other recently published studies.
+
+                                                                                         Cancer Causes and Control. Vol 8. 1997   273
+D.R. English et al
+
+
+hours of nonoccupational sun exposure in summer,              increases with increasing total amount of exposure. On
+time spent in particular outdoor recreations (fishing,        the other hand, melanoma is associated strongly with
+boating). Only one study found a significant, negative        nonoccupational exposure to the sun and sunburn, both
+association, and all but two of the remaining studies         of which probably reflect an intermittent pattern of
+found RRs for the highest exposure categories that            exposure, and risk overall generally does not rise and even
+were greater than 1.0. Some RRs were very high – eight        may fall as occupational exposure increases and increasing
+or greater.                                                   amount of exposure is traded off against falling intermit-
+   Despite the difficulty presented by disparate measures     tency of exposure. Thus, pattern of exposure also appears
+of exposure among different studies, one group of inves-      to be important.
+tigators29 has attempted a pooled analysis of published          We now postulate that, given a particular pattern of
+results with respect to nonoccupational (‘intermittent’)      exposure to sunlight, risk of melanoma increases with
+and occupational (‘chronic’) exposure to sunlight. In seven   increasing amount of exposure and, given a particular
+population-based studies, which showed less heterogene-       amount of exposure, risk increases as exposure becomes
+ity in RR estimates than hospital-based studies, the pooled   more intermittent. The independence of effects of amount
+estimates of RR for melanoma were 1.6 (CI = 1.3-1.9) for      and pattern of exposure and the shapes of their relation-
+the highest category of nonoccupational exposure and 0.7      ships with melanoma have not yet been shown
+(CI = 0.6-0.9) for the highest category of occupational       empirically.
+exposure.
+                                                              Protection against sunlight. Most case-control and
+  History of sunburn. Almost all studies that have            cohort studies have found positive rather than negative
+investigated it have found a positive association             associations between sunscreen use and cutaneous
+between past history of sunburn and risk of melanoma          melanoma30,33 which have not been eliminated by
+with RRs typically above two and up to 12 (Table 2).          control for sun sensitivity and sun exposure. Two
+                                                              recent case-control studies, however, have observed
+  Other sunlight-related skin damage. Exposure to             protective effects. In a study from the south of Spain,23
+sunlight is believed to cause nonmelanocytic skin             the RR, adjusted for sun exposure and sun sensitivity,
+cancers, as reviewed here, and a range of benign skin         fell from 1.0 in those who never used sunscreens to
+conditions (e.g., solar elastosis, solar lentigines, solar    0.6 (CI = 0.3-1.4) in occasional users and 0.2 (CI =
+keratoses).30 Presence or history of these conditions         0.0-0.8) in those who always used them when in the
+often has been documented in case-control studies of          sun. Similarly, among women in the San Francisco Bay
+melanoma; positive associations have almost always            area (California, US) in the 1980s,14 those who never
+been found (Table 2).                                         used sunscreens had an RR for melanoma of 2.3 (P =
+                                                              0.001) when compared with those who always used
+Exposure-response relationship. What few data exist on        them, adjusted for sun exposure, sunburn, and host
+the exposure-response relationship for sunlight and           factors. Lack of information on the sun protection
+melanoma suggest that risk increases sharply at low           factors of sunscreens used in these various studies
+exposures, reaches a plateau and, if anything, falls at       makes it difficult to explain the inconsistencies.
+higher exposures.31,32 The matter is complicated by
+possible contributions of both amount and pattern of
+                                                              Basal cell carcinoma of the skin
+exposure to causing the disease and confounding
+between these two. As Elwood and Gallagher32 have             Basal cell carcinoma (BCC) is more common than
+pointed out: “It may therefore be inappropriate to            squamous cell carcinoma (SCC) of the skin. These two
+produce a unified dose response curve for the whole           types of nonmelanocytic skin cancer have often been
+relationship. Intermittent and constant exposure (amount      grouped in epidemiologic studies, although recent evi-
+and pattern) may be intrinsically different, with             dence suggests that they may differ in their relationship
+conflicting effects, so that the risk for an individual       to sunlight. Their epidemiology has been reviewed in
+depends on the balance between these two exposures.”          detail by Kricker et al.34
+   Is total amount of exposure important? The relation-
+ship between ambient sunlight and melanoma suggests           Descriptive studies
+that, given a particular pattern of exposure, as amount       Ethnic origin. Nonmelanocytic skin cancer is rare in non-
+increases risk increases. That melanoma is most dense on      White populations. In a US survey conducted in 1977-78,
+some more-or-less continuously exposed sites and that         the incidence rate of SCC and BCC combined was 232.6
+melanoma on exposed sites appears to increase with            per 100,000 person-years in Whites but only 3.4 among
+increasing occupational exposure also suggests that risk      Blacks.35 In populations of mainly European origin, inci-
+274 Cancer Causes and Control. Vol 8. 1997
+                                                                                                           Sunlight and cancer
+
+
+dence rates are lower in people with ethnically darker        Exposure of skin to the sun.
+skins.35,36                                                       Total exposure. The evidence linking reported total
+                                                              (occupational and nonoccupational) sun exposure to BCC
+Place of residence. In Australia and the US, incidence        is weak: of five studies,42-47 none showed a statistically
+is greatest in regions closest to the equator.35,37 The       significant, positive association. Earlier reports of strong
+incidence of BCC in Australia in 1990 increased three-        associations came from studies in which confounding of
+fold from latitudes south of 37°S to latitudes north of       the association by age and gender was likely.34
+29°S.37                                                           Only the Western Australian study48 has examined sun
+                                                              exposure to the site of the skin cancer. While risk of BCC
+Occupation. Early reports associated nonmelanocytic           did not correlate well with total site-specific exposure to
+skin cancer with outdoor occupation.38-40 More recent         the sun, the patterns of RRs differed by body-site. Rela-
+and more rigorous studies have shown much less                tive risk of BCC of the head and neck and the limbs fell
+evidence of such an association.27,28 None of these           with increasing lifetime total exposure, but, on the trunk,
+studies has distinguished between BCC and SCC.                it increased with increasing total exposure; the RR for the
+                                                              highest category of total exposure to the trunk was 2.4
+Migration. In 1990, the incidence of BCC in migrants          (CI = 1.2-4.8). Amounts of exposure differed across body
+to Australia was half that in those born in Australia.37      sites and the entire range of exposure of the trunk fitted
+Most migration to Australia is from areas of lower            into the first quarter of exposure to the head and neck.
+ambient sunlight.
+                                                                 Occupational exposure. Exposure to the sun at work
+Anatomic site. Table 1 shows the relative density on          is not associated strongly with BCC. Two41,49 of five
+the skin of incident cases of BCC in a recent whole-          studies showed statistically significant positive asso-
+population study in Western Australia. The highest            ciations with occupational exposure, but with only
+density of BCC was on the usually exposed sites and           small increases in risk (RRs of 1.3 and 1.4) for what
+the lowest on the rarely exposed sites. Intermediate          were quite crude summary variables. Two44,45 of three
+densities occurred on sometimes exposed sites, includ-        studies not supportive of occupational exposure as a
+ing the trunk.                                                risk factor for BCC were based on well-defined
+                                                              quantitative measurements.
+Analytic studies
+Earlier cross-sectional and case-control studies of BCC          Nonoccupational exposure. All studies of nonoccu-
+generally were not population-based and had a number          pational exposure, measured as summer holiday or
+of methodologic difficulties, including few subjects, crude   weekend exposure, which have used quantitative
+measurement of exposure to sunlight, and inadequate           measurements of sun exposure have shown statistically
+control of confounding.34 The following review, therefore,    significant positive associations with BCC. These results
+is based on the more recent, population-based studies.        were obtained in Western Australia,48 Canada,44 and
+                                                              southern Europe (i.e., the Helios study46). In addition,
+Sensitivity of skin to sunlight. RRs of 2.0 or more have      a specific measure of intermittent exposure, con-
+been found for BCC with a skin that burns rather              structed by Kricker et al 48 from estimates of exposure
+than tans.36,41-43 Light skin color was associated signifi-   on working days and nonworking days in each week,
+cantly with BCC in one study only.44                          showed strongly increasing risks of BCC with increas-
+   Consistent with the descriptive observations referred      ing intermittency of sun exposure at 15 to 19 years of
+to above, case-control studies have shown that people of      age, with a high RR (3.9, CI = 1.9-7.8) for the most
+southern-European ethnic origin born in Australia or          intermittent pattern of exposure.
+Canada have half or less the risk of BCC of people of
+other (generally lighter skinned) ethnic origins born in         Sunburn. Risk of BCC increased significantly with
+the same country.36,44                                        lifetime measures of sunburn in two43,46 of six popula-
+                                                              tion-based studies. RRs ranged from 2.9 for six or
+Ambient sunlight at places of residence. In Western           more sunburns in one study43 to 1.7 in two studies46,48
+Australia, risk of BCC increased with increasing              and around 1.0 in three.44,49,50
+intensity of ambient solar radiation at all places of
+residence.45 In a cohort study of US nurses,43 those             Other sun-related skin damage. Strong positive re-
+who had lived in California or Florida (US) had               lationships have been observed between BCC and solar
+increased rates of BCC compared with those who had            keratoses36,50 and more moderate associations between
+lived in northeastern states.                                 BCC and telangiectasia and solar elastosis.36
+                                                                                      Cancer Causes and Control. Vol 8. 1997   275
+D.R. English et al
+
+
+Exposure-response relationship. T h e q u a n t ita t iv e   Occupation. No separate descriptive studies of SCC
+relationship between sunlight exposure and BCC has           have been reported. Analytic studies of occupation are
+been modeled in three studies: a survey of skin cancer       discussed below.
+in Chesapeake Bay (Maryland, US) watermen,51 the
+Western Australian case-control study,45 and the Helios      Anatomic site. SCC has its highest density on usually
+study.46 The three studies are reasonably consistent in      exposed sites. Unlike melanoma and BCC it has low
+suggesting that risk of BCC first rises with increasing      density on sometimes exposed sites (Table 1). Urbach53
+exposure but then reaches a plateau.                         examined SCC occurring on the head and neck and
+   In the Western Australian study,45 risk of BCC            found that, in contrast to BCC, they rarely occurred
+increased with increasing sun exposure in those who          on the more sheltered parts.
+tanned well, but the risk was initially flat and then fell
+with increasing exposure in those who tanned poorly.         Analytic studies
+This pattern is consistent with the reported exposure-
+response relationships because, for any given incident       The following review is based mainly on the more recent,
+exposure, actual exposure of the basal layer of the skin     population-based studies.
+would be less in those who tan well than in those who
+tan poorly.                                                  Sensitivity of skin to sunlight. Estimates of RR have
+                                                             been between 1.5 and 4.5 for comparisons of the most
+Protection against sunlight. In Western Australia, use       sensitive skin with the least sensitive skin.34
+of sunscreens and the wearing of a hat were associated
+with an increased risk of BCC rather than a decreased
+                                                             Ambient sunlight at places of residence. Grodstein et
+risk.48 This association was strongest in the 10 years
+                                                             al 54 observed an association between risk of SCC and
+before diagnosis of the cancer, thus suggesting that it
+                                                             place of residence in a cohort of US nurses. Compared
+may have been due to recent adoption of protection
+                                                             with women living in northeastern states, women living
+against the sun in those already at high risk of skin
+                                                             in California or Florida had increased rates. US
+cancer. An apparently paradoxical association was also
+                                                             veterans of World War II who served in the Pacific
+found in US nurses;43 risk of BCC was 40 percent
+                                                             were more likely than their counterparts who served
+higher in those who regularly spent time outdoors and
+                                                             in Europe to have an SCC.55
+used sunscreen than in those who regularly spent time
+outdoors and did not use sunscreen.                          Exposure of skin to the sun.
+
+                                                                Total lifetime exposure. Total lifetime exposure to the
+Squamous cell carcinoma of the skin                          sun, measured in hours, showed a strong dose-response
+                                                             relationship with SCC in an early hospital-based case-
+Descriptive studies                                          control study.56 However, because age was not controlled,
+Ethnic origin. Nonmelanocytic skin cancer, including         substantial confounding is likely. Much weaker positive
+SCC, is rare among populations not of European origin.       associations have been observed in more adequate
+Among populations of mainly European origin, the             studies,34 although a strong association was seen in the
+incidence rate of SCC is lower in ethnic groups with         Helios study.46 No increased risk was seen in the cohort
+darker skin pigmentation.35,36                               study of US nurses (although the data were based on a
+                                                             single question, “Do you regularly spend time outdoors
+Place of residence. Within Australia, the US, and            in the summer?”),54 nor in a case-control study from
+Norway, the incidence rate of SCC increases with             Canada57 that had extensive data on exposure.
+increasing proximity to the equator.35,37,52 The pattern
+is less clear among countries, but is likely to be              Occupational exposure. Crude measures of occupa-
+confounded by ethnic origin and by varying degrees           tional exposure were considered in four studies;34 all
+of completeness of ascertainment.34 SCC is related           RRs were greater than 1.0. More recently, Gallagher
+more strongly to latitude37 or measured UVB radia-           et al 57 estimated the number of hours of exposure at
+tion35 than is BCC.                                          work. Although little effect was seen for total lifetime
+                                                             exposure at work, odds ratios (OR) increased with
+Migration. Migrants to Australia from the United King-       increasing exposure at work in the last 10 years – the
+dom, an area of lower sun exposure, have incidence           OR in the highest category was 4.0 (CI = 1.2-13.1).
+rates of SCC about half those of the Australian-born         Rosso et al 46 found increasing risks with increasing
+population.37                                                hours of exposure at work.
+276 Cancer Causes and Control. Vol 8. 1997
+                                                                                                          Sunlight and cancer
+
+
+   Nonoccupational exposure. Gallagher et al 57 esti-        Melanoma of the eye
+mated hours outdoors during recreation over the
+                                                             Most UV radiation incident on the eye is absorbed by
+lifetime, in the first 20 years of life and in the last 10
+                                                             the cornea and the lens. Approximately four percent of
+years. Only for exposure in the first 20 years were
+                                                             it reaches the retina in early childhood and this proportion
+ORs greater than unity and even then, the highest OR
+                                                             falls with increasing age to less than one percent of radia-
+was only 1.6. Similarly, Rosso et al 46 found little or
+                                                             tion below 340 nm and two percent of radiation between
+no association with a number of measures of nonoc-
+                                                             340 and 360 nm.61 Thus, while exposure of the retina is
+cupational exposure.
+                                                             low, induction of choroidal melanoma by solar UV
+                                                             radiation is still possible.
+  Sunburn. Kricker et al 34 reviewed three studies of
+sunburn. Two found strong associations (ORs = 3 or           Descriptive studies
+greater)50,56 and the other found a weak association
+                                                             Ocular melanoma is classified and often reported under
+(OR of 1.5).58 Three studies have been completed
+                                                             the same rubric as all other cancers of the eye. However,
+subsequently: rate ratios increased with lifetime
+                                                             since ocular melanoma comprises some 80 percent of
+number of burns in the cohort study of US nurses54
+                                                             cancers of the eye, the descriptive patterns of all cancers
+and most, but not all, measures of sunburn were related
+                                                             of the eye probably give a reasonable reflection of its
+to risk of SCC in the Canadian case-control study.57
+                                                             patterns, particularly in adults.
+However, no association was seen in the Helios study.46
+                                                             Ethnic origin. Ocular melanoma is primarily a disease
+   Other sun-related skin damage. Strong associations        of populations of European origin. Among mixed
+have been seen with biological markers of long-term          populations residing at the same latitude, its incidence
+sun exposure.34 These markers include solar lentigines,      is higher in Whites than Blacks and Asians.62-64
+facial telangiectasia, elastosis of the neck and dorsum
+of the hands, and presence of solar keratoses. The           Place of residence. No evidence has been found of a
+association with solar keratoses is particularly strong.     latitude gradient for ocular melanoma or cancers of
+                                                             the eye as a whole.65-67 Incidence rates for cancers of
+   Exposure-response relationship. Two reports46,51          the eye as a whole in nine countries showed a rural
+provide quantitative data on the exposure-response           excess in males.68
+relationship. The first, of Chesapeake Bay watermen,51
+included only 35 men with SCC. The prevalence of             Migration. Whereas rates of cutaneous melanoma are
+SCC was modeled as a power function of average,              higher in Jews born in Israel than in Jews born in
+annual estimated UVB-exposure and age (i.e., Preva-          Europe and America,6 there is little difference in rates
+lence = Exposurea × Ageb). When four cases with the          of ocular melanoma between these two groups.69
+lowest exposure levels were excluded, a strong rela-
+tionship was seen with annual exposure (the exponent         Occupation. Ocular melanoma has been associated
+was 1.7). Although these data suggest that the preva-        inconsistently with farming in descriptive studies. Two
+lence of SCC, and presumably also the incidence,             studies found a positive association,70,71 but three did
+increases with increasing exposure, the effect would         not.72-74
+have been much weaker had the arbitrary exclusion
+of cases not been made. Data from the Helios study46         Anatomic site. Ocular melanomas are located most
+are more convincing – the RR increased exponentially         frequently in the central posterior choroid and the
+with increasing total hours of exposure.                     inferior and temporal iris.75 The central posterior
+                                                             choroid corresponds to the region of maximal light
+Protection against sunlight. The effect of sunscreens        focusing by the refractive components of the eye.
+on risk of SCC has been considered in only one study,        Studies using model eyes have shown that the inferior
+the Nurses’ Health Study.54 The OR for regular time          and temporal regions of the iris are relatively unpro-
+outdoors with use of sunscreens, compared with no            tected from incident light by surrounding anatomic
+regular time outdoors, was 0.9 (CI = 0.6-1.2). The OR        structures.76,77
+for time outdoors without use of sunscreens was 0.7
+(CI = 0.4-1.1). Persuasive evidence that sunscreens          Analytic studies
+protect against solar keratoses (probable precursors to      Sensitivity of skin to sunlight. People who burn easily and
+SCC) is provided by the results of two randomized            tan poorly had moderately increased risk of ocular
+trials.59,60                                                 melanoma (RR = 2 or less) in two78,79 of four relevant
+                                                                                     Cancer Causes and Control. Vol 8. 1997   277
+D.R. English et al
+
+
+case-control studies. No association was seen with hair       over recent decades and the generally similar geographic
+and eye color when ethnicity was taken into account,78-82     variation for non-Hodgkin’s lymphoma and skin cancer
+but in one of these studies,82 an increased risk with light   also suggest that these malignancies may have a common
+skin color persisted after adjustment for ethnicity.          risk factor, possibly sunlight exposure.94 However, in the
+                                                              US, the mortality rates from non-Hodgkin’s lymphoma
+Ambient sunlight at places of residence. Two case-con-        are highest in the north, not the south.95
+trol studies from the US81,82 showed an association
+between ocular melanoma and birth or residence in             Breast and colon cancer
+the southern US; but in two other studies,79,80 no            It has been hypothesized that sunlight might prevent
+associations were observed with place of residence.           breast cancer and colon cancer96,97 on the grounds that
+                                                              vitamin D might protect against these cancers. Mortality
+Exposure of eye to the sun. There is little evidence for      rates for both breast and colon cancer and incidence rates
+an association between personal sun exposure and              for colorectal cancer were found to be highest in parts of
+ocular melanoma. Total cumulative sunlight exposure           the US with the lowest ambient sunlight.96-98 The incidence
+was not associated with ocular melanoma in two case-          of breast cancer in the former Union of Soviet Socialist
+control studies.80,82 Four case-control studies80,82-84       Republics (USSR) also was inversely related to ambient
+found no significant association with farming, but one84      sunlight levels,99 but the correlation between breast cancer
+found an increased risk in sailors, ships’ officers, and      and socioeconomic status was stronger than that between
+fishermen. Three studies78,80,82 found no association         sunlight and breast cancer. No studies in individuals have
+with personal leisure time or vacation exposure to the        been reported.
+sun. One other study,81 however, found weak associa-
+tions with gardening and frequent sunny vacations but
+not with high leisure time outdoors.                          Molecular effects of ultraviolet radiation
+Protection against sunlight. In one case-control study,81     UV radiation produces a number of photoproducts in
+those who occasionally, rarely, or never used sun-            DNA. The most common are cyclobutane-type pyrimid-
+glasses, hats, or sun visors when in the sun had increased    ine dimers and pyrimidine-pyrimidone (6-4)
+risks of ocular melanoma (up to RR = 1.9 with rare            photoproducts formed between adjacent pyrimidines
+use) relative to those who almost always used them.           (cytosine [C] and thymine [T]).100 The action spectrum
+However, another study 82 found no evidence of a pro-         for formation of photoproducts in DNA in human skin
+tective effect with use of sunglasses or a sun visor.         closely approximates that for the induction of squamous
+                                                              cell carcinoma in mice.1,101 UV photoproducts are
+                                                              mutagenic if they are not repaired before cell division
+Other cancers                                                 occurs. The most common UV-induced mutations are
+                                                              C→T transitions, which occur at dypyrimidine sites.102
+Conjunctival cancer                                           Tandem transitions CC→TT also occur – these mutations
+Squamous cell carcinoma of the conjunctiva usually            are almost specific to UV.103
+presents in the exposed area of the eye between the lids.85      Patients with xeroderma pigmentosum (XP), an inher-
+It has been shown in a study of incidence rates in 47         ited disorder characterized by increased sensitivity to
+populations86 to decrease in incidence by 49 percent per      acute exposure to the sun and defective repair of DNA
+10-degree increase in latitude and by 29 percent for a one    photoproducts, have histories of high numbers of BCC,
+minimal erythemal-dose-fall in estimated ambient UV           SCC, cutaneous melanoma at young ages on body sites
+irradiance. Additionally, a recent study87 of conjunctival    commonly exposed to sunlight, and of cancers of the
+and limbal epithelial dysplasia (carcinoma in situ and        anterior eye.104 These observations strongly implicate
+squamous cell carcinoma) reported increased risks for fair    unrepaired photoproducts in DNA in the genesis of these
+skin, being outdoors at < 30° latitude for greater than 50    cancers, although two other syndromes of inherited
+percent of the time before age 12 years, estimated cumu-      deficiency in excision repair of DNA are not associated
+lative UV exposure and a history of skin cancer.              with increased incidence rates of skin cancer.105,106
+                                                                 In 1991, Brash and co-workers107 reported mutations
+Non-Hodgkin’s lymphoma                                        in the p53 tumor suppressor gene in 14 (58 percent) of
+Studies in Europe88-93 have shown an increased risk of        24 SCCs. Three mutations were CC→TT transitions, five
+non-Hodgkin’s lymphoma subsequent to non-melano-              were C→T transitions and all mutations occurred at
+cytic skin cancer and malignant melanoma. The parallel        dipyrimidine sites. Other investigators have also reported
+dramatic increase in incidence rates in Europe and the US     p53 mutations at dipyrimidine sites in SCC, BCC, and
+278 Cancer Causes and Control. Vol 8. 1997
+                                                                                                                   Sunlight and cancer
+
+
+solar keratoses.108-114 Mutations of the p53 gene occur in               Melanoma of the skin and BCC appear to share many
+up to 90 percent of SCC and about 50 percent of BCC.115               epidemiologic features, while SCC stands apart. Evidence
+They also have been observed in normal skin. Transitions              that melanoma of the skin and BCC are related to total
+from CC to TT were observed in normal skin on sun                     and occupational exposure to the sun is largely absent
+exposed sites in 17 of 23 (74 percent) samples from                   (Table 3). Strong evidence, particularly for melanoma,
+Australian skin cancer patients compared with one of 20               exists for a relationship with nonoccupational exposure.
+(five percent) samples of skin from sites not exposed to              In contrast, there is evidence that SCC is related to total
+the sun,116 suggesting that p53 mutations occur frequently            and occupational exposure, but almost no evidence that
+in response to sunlight. However, p53 mutations are rare              it is related to nonoccupational exposure. All three skin
+in melanomas.117 Mutations possibly due to UV radiation               cancers are related to sunburn (particularly melanoma)
+have been observed118 in another putative tumor suppres-              and all are related also to other indicators of sunlight-
+sor gene, the CDKN2 gene, in melanoma cell lines, and                 induced skin damage. Finally, studies of mutations in
+infrequently in tumors.                                               BCCs and SCCs provide evidence that they were caused
+                                                                      by sunlight. There is much less evidence of this kind for
+                                                                      melanoma.
+Conclusions                                                              The risk of melanoma of the skin and BCC appears to
+The strength of evidence that sunlight causes melanoma                increase with increasing exposure to sunlight at low levels
+of the skin, BCC, SCC, and melanoma of the eye is                     of exposure, before leveling off and perhaps falling at high
+summarized in Table 3 for each epidemiologic feature                  levels. This pattern may be due to confounded effects of
+discussed in the text. For all three skin cancers, the                amount and pattern of sunlight exposure in causing
+distributions by anatomic site, ethnic origin, and place of           melanoma and BCC. It might be argued reasonably that,
+residence, and the effects of migration implicate sunlight            as amount of exposure increases, pattern of exposure
+as a cause. Of all the descriptive characteristics considered,        becomes more continuous and thus ameliorates the effect
+only occupation provides little evidence that sunlight                of the increased amount. There are at present, however,
+causes skin cancer. The increased risk of melanoma in                 no adequate empirical data which would enable these
+indoor workers once was considered to be persuasive                   complex interacting and confounded effects to be
+evidence against sunlight causing the disease.                        disentangled.
+
+
+
+                                                                                                                                       a
+Table 3. Summary of strength of evidence that sunlight causes cancer based on epidemiologic features discussed in text
+
+Epidemiologic feature                                                               Skin                             Eye melanoma
+                                                             Melanoma              BCC                SCC
+Descriptive studies
+ Ethnic origin                                                    +                  +                  +                     +
+ Place of residence                                               +                  +                  +                     0
+ Migration                                                        +                  +                  +                     0
+ Occupation                                                       0                  0                  0                     0
+ Anatomic site                                                    +                  +                  +                     +
+Analytic studies
+ Sensitivity of skin to sunlight                                  +                  +                  +                     0
+ Ambient sunlight at places of residence                          +                  +                  +                     0
+ Exposure of the skin to sunlight
+  Total exposure                                                  0                  0                  +                     0
+  Occupational exposure                                           0                  0                  +                     0
+  Non-occupational exposure                                       +                  +                  0                     0
+  Sunburn                                                         +                  +                  +                     0
+ Other sun-related skin damage                                    +                  +                  +                     0
+ Protection against sunlight                                      0                  0                  0                     0
+Molecular effects
+ Effects of DNA repair deficiency                                 +                  +                  +                     0
+ Mutations in tumors characteristic of UV radiation               +                  +                  +                     0
+a
+    ++ indicates strong evidence; + indicates weak evidence; 0 indicates conflicting evidence, lack of evidence or lack of effect.
+
+
+                                                                                              Cancer Causes and Control. Vol 8. 1997       279
+D.R. English et al
+
+
+   Data on the quantitative nature of the exposure-           be used to distinguish the effects of pattern and amount
+response relationship for SCC indicate a monotonic            of exposure. We know little about the relationship of most
+increase in risk with increasing exposure. These observa-     current biomarkers (e.g., UV-induced mutations in the
+tions are supported by the anatomic site distribution and     p53 gene, formation of DNA photoproducts) to pattern
+the strong latitude gradient.                                 and amount of exposure. It would not be difficult to
+   No consistent evidence that sunlight causes melanoma       design short-term experimental studies in humans to
+of the eye emerges from descriptive studies or analytic       elucidate some of these issues. It is doubtful that contin-
+studies in which individual exposure to the sun was           ued analysis of UV-induced mutations in the p53 gene or
+measured. Only differences by ethnic origin, the anatomic     other genes in tumors will be of value if used in the absence
+site of melanoma within the eye, and some conflicting         of appropriate measures of exposure. Lack of association
+results showing decreased risk associated with protection     between some genetic changes in BCC and sun expo-
+against sunlight are supportive.                              sure,119 for example, may be due to failure to measure
+   In 1992, the International Agency for Research on          pattern of exposure.
+Cancer (IARC) concluded that there is sufficient evidence
+that solar radiation causes melanoma of the skin and          References
+nonmelanocytic skin cancer.15 What, then, are the out-
+                                                               1. de Gruijl FR. Photobiology of photocarcinogenesis.
+standing issues? Identifying the exposure-response
+                                                                  Photochem Photobiol 1996; 63: 372-5.
+relationships, with particular emphasis on distinguishing      2. Parkin DM, Muir CS, Whelan SL, Gao YT, Ferlay J, Powell
+between pattern and amount of exposure is the most                J, eds. Cancer Incidence in Five Continents. Lyon, France:
+important outstanding issue. This is not merely of                International Agency for Research on Cancer, 1992; IARC
+academic interest, because if pattern of exposure is              Sci. Pub. No. 120.
+                                                               3. Armstrong BK. Melanoma of the skin. Br Med Bull 1984;
+important, a reduction in amount of exposure might not
+                                                                  40: 346-50.
+result in a reduction of risk of melanoma (and possibly        4. Bulliard JL, Cox B, Elwood JM. Latitude gradients in mela-
+also of BCC) if pattern of exposure changes at the same           noma incidence and mortality in the non-Maori population
+time. Another unresolved, but not unrelated, issue is the         of New Zealand. Cancer Causes Control 1994; 5: 234-40.
+relationship between exposure to a particular anatomic         5. Khlat M, Vail A, Parkin DM, Green A. Mortality from
+                                                                  melanoma in migrants to Australia: variation by age at
+site and risk of skin cancer on that site. A number of the
+                                                                  arrival and duration of stay. Am J Epidemiol 1992; 135:
+inconsistencies seen in current literature may be due to          1103-13.
+failure to measure exposure to the anatomic site where         6. Iscovich J, Andreev H, Steinitz R. Incidence of cutaneous
+the cancer occurred. The lack of protective effects of            malignant melanoma in Israel, 1960-1989. Public Health
+sunscreen and hat use is also notable, and there is limited       Rev 1995; 23: 1-23.
+                                                               7. Mack TM, Floderus B. Malignant melanoma risk by nativ-
+other direct evidence that protection from sun exposure
+                                                                  ity, place of residence at diagnosis, and age at migration.
+reduces risk of any skin cancer in the general population.        Cancer Causes Control 1991; 2: 401-11.
+The possibility that sun exposure causes ocular melanoma       8. Holman CD, Mulroney CD, Armstrong BK. Epidemiology
+remains tantalizing and should not be discarded without           of pre-invasive and invasive malignant melanoma in
+some further study although, given that sun exposure in           Western Australia. Int J Cancer 1980; 25: 317-23.
+                                                               9. Lee JA, Strickland D. Malignant melanoma: social status
+early life could be of dominant importance, it will not be
+                                                                  and outdoor work. Br J Cancer 1980; 41: 757-63.
+easy.                                                         10. Cooke KR, Skegg DC, Fraser J. Socio-economic status,
+   How might we address the outstanding issues? Because           indoor and outdoor work, and malignant melanoma. Int J
+of the low salience of sun exposure, measuring lifetime           Cancer 1984; 34: 57-62.
+exposure to particular anatomic sites, including pattern      11. Green A, Maclennan R, Youl P, Martin N. Site distribution
+                                                                  of cutaneous melanoma in Queensland. Int J Cancer 1993;
+and amount, is an error-prone task. The problem may               53: 232-6.
+not be so great in young adults who may be able to            12. Armstrong BK, English DR. Cutaneous malignant mela-
+remember relevant exposures in childhood, adolescence,            noma. In: Schottenfeld D, Fraumeni JF Jr, eds. Cancer
+and early adulthood, and whose parents may be available           Epidemiology and Prevention. Second Edition. New York,
+to corroborate their memories. International, collabora-          NY (USA): Oxford University Press, 1996.
+                                                              13. White E, Kirkpatrick CS, Lee JA. Case-control study of
+tive case-control studies, involving centers with widely          malignant melanoma in Washington State. I. Constitutional
+varying ambient exposures may prove useful. Cohort                factors and sun exposure. Am J Epidemiol 1994; 139: 857-68.
+studies are of limited value unless large numbers of young    14. Holly EA, Aston DA, Cress RD, Ahn DK, Kristiansen JJ.
+subjects can be recruited and resurveyed frequently to            Cutaneous melanoma in women. I. Exposure to sunlight,
+update their sun exposure. This would be a formidable             ability to tan, and other risk factors related to ultraviolet
+                                                                  light. Am J Epidemiol 1995; 141: 923-33.
+task.
+                                                              15. International Agency for Research on Cancer. Solar and
+   What is the role of ‘molecular’ epidemiology? We need          Ultraviolet Radiation. Lyon, France: IARC, 1992: IARC
+a range of short-term and long-term biomarkers that can           Monogr Eval Carcinog Risks Humans: 1-316.
+
+280 Cancer Causes and Control. Vol 8. 1997
+                                                                                                                    Sunlight and cancer
+
+
+16. Pion IA, Rigel DS, Garfinkel L, Silverman MK, Kopf AW.                noma. Boston, MA (USA): Kluwer Academic Publishers,
+    Occupation and the risk of malignant melanoma. Cancer                 1994: 15-66.
+    1995; 75: 637-44.                                               33.   Westerdahl J, Olsson H, Masback A, Ingvar C, Jonsson N.
+17. Autier P, Dore JF, Lejeune F, et al. Recreational exposure            Is the use of sunscreens a risk factor for malignant mela-
+    to sunlight and lack of information as risk factors for               noma? Melanoma Res 1995; 5: 59-65.
+    cutaneous malignant melanoma. Results of an European            34.   Kricker A, Armstrong BK, English DR. Sun exposure and
+    Organization for Research and Treatment of Cancer                     non-melanocytic skin cancer. Cancer Causes Control 1994;
+    (EORTC) case-control study in Belgium, France and                     5: 367-92.
+    Germany. The EORTC Malignant Melanoma Cooperative               35.   Scotto J, Fears TR, Fraumeni JF Jr. Incidence of Non-
+    Group. Melanoma Res 1994; 4: 79-85.                                   melanoma Skin Cancer in the United States. Bethesda, MD
+18. Autier P, Dore JF, Schifflers E, et al. Melanoma and use of           (USA): US Department of Health and Human Services,
+    sunscreens: an EORTC case-control study in Germany,                   1983; NIH Pub. No. 82-2433.
+    Belgium and France. The EORTC Melanoma Cooperative              36.   Kricker A, Armstrong BK, English DR, Heenan PJ. Pig-
+    Group. Int J Cancer 1995; 61: 749-55.                                 mentary and cutaneous risk factors for non-melanocytic
+19. Westerdahl J, Olsson H, Ingvar C, Brandt L, Jonsson PE,               skin cancer—a case-control study. Int J Cancer 1991; 48:
+    Moller T. Southern travelling habits with special reference           650-62.
+    to tumour site in Swedish melanoma patients. Anticancer         37.   Marks R, Staples M, Giles GG. Trends in non-melanocytic
+    Res 1992; 12: 1539-42.                                                skin cancer treated in Australia: the second national survey.
+20. Westerdahl J, Olsson H, Ingvar C. At what age do sunburn              Int J Cancer 1993; 53: 585-90.
+    episodes play a crucial role for the development of malig-      38.   Molesworth EH. Rodent ulcer. Med J Aust 1927; 1: 878-99.
+    nant melanoma? Eur J Cancer 1994; 30A: 1647-54.                 39.   Blum H. Sunlight as a causal factor in cancer of the skin
+21. Marghoob AA, Slade J, Salopek TG, Kopf AW, Bart RS,                   in man. JNCI 1948; 9: 247-58.
+    Rigel DS. Basal cell and squamous cell carcinomas are           40.   Emmett EA. Ultraviolet radiation as a cause of skin tumors.
+    important risk factors for cutaneous malignant melanoma.              CRC Critical Reviews in Toxicology 1973; 2: 211-55.
+    Screening implications. Cancer 1995; 75: 707-14.                41.   Marks R, Jolley D, Dorevitch AP, Selwood TS. The inci-
+22. Goodman KJ, Bible ML, London S, Mack TM. Propor-                      dence of non-melanocytic skin cancers in an Australian
+    tional melanoma incidence and occupation among White                  population: results of a five-year prospective study. Med J
+    males in Los Angeles County (California, United States).              Aust 1989; 150: 475-8.
+    Cancer Causes Control 1995; 6: 451-9.                           42.   Vitasa BC, Taylor HR, Strickland PT, et al. Association of
+23. Rodenas JM, Delgado-Rodriguez M, Herranz MT, Tercedor                 nonmelanoma skin cancer and actinic keratosis with
+    J, Serrano S. Sun exposure, pigmentary traits, and risk of            cumulative solar ultraviolet exposure in Maryland water-
+    cutaneous malignant melanoma – a case-control study in a              men. Cancer 1990; 65: 2811-7.
+    Mediterranean population. Cancer Causes Control 1996; 7:        43.   Hunter DJ, Colditz GA, Stampfer MJ, Rosner B, Willett
+    275-83.                                                               WC, Speizer FE. Risk factors for basal cell carcinoma in a
+24. Brown J, Kopf AW, Rigel DS, Friedman RJ. Malignant                    prospective cohort of women. Ann Epidemiol 1990; 1: 13-23.
+    melanoma in World War II veterans. Int J Dermatol 1984;         44.   Gallagher RP, Hill GB, Bajdik CD, et al. Sunlight exposure,
+    23: 661-3.                                                            pigmentary factors, and risk of nonmelanocytic skin cancer.
+25. Lê MG, Cabanes PA, Desvignes V, Chanteau MF, Mlika                    I. Basal cell carcinoma. Arch Dermatol 1995; 131: 157-63.
+    N, Avril MF. Oral contraceptive use and risk of cutaneous       45.   Kricker A, Armstrong BK, English DR, Heenan PJ. A
+    malignant melanoma in a case-control study of French                  dose-response curve for sun exposure and basal cell carci-
+    women. Cancer Causes Control 1992; 3: 199-205.                        noma. Int J Cancer 1995; 60: 482-8.
+26. Grob JJ, Gouvernet J, Aymar D, et al. Count of benign           46.   Rosso S, Zanetti R, Martinez C, et al. The multicentre
+    melanocytic nevi as a major indicator of risk for nonfamilial         South European Study, ‘Helios.’ 2. Different sun exposure
+    nodular and superficial spreading melanoma. Cancer 1990;              patterns in the aetiology of basal cell and squamous cell
+    66: 387-95.                                                           carcinomas of the skin. Br J Cancer 1996; 73: 1447-54.
+27. Vågerö D, Ringbäck G, Kiviranta H. Melanoma and other           47.   Zanetti R, Rosso S, Martinez C, et al. The multicentre
+    tumours of the skin among office, other indoor and outdoor            South European Study, ‘Helios.’ 1. Skin characteristics and
+    workers in Sweden 1961-1979. Br J Cancer 1986; 53: 507-12.            sunburns in basal cell and squamous cell carcinomas of the
+28. Beral V, Robinson N. The relationship of malignant mela-              skin. Br J Cancer 1996; 73: 1440-6.
+    noma, basal and squamous skin cancers to indoor and             48.   Kricker A, Armstrong BK, English DR, Heenan PJ. Does
+    outdoor work. Br J Cancer 1981; 44: 886-91.                           intermittent sun exposure cause basal cell carcinoma? A
+29. Nelemans PJ, Rampen FH, Ruiter DJ, Verbeek AL. An                     case-control study in Western Australia. Int J Cancer 1995;
+    addition to the controversy on sunlight exposure and mela-            60: 489-94.
+    noma risk: a meta-analytical approach. J Clin Epidemiol         49.   Hogan DJ, To T, Gran L, Wong D, Lane PR. Risk factors
+    1995; 48: 1331-42.                                                    for basal cell carcinoma. Int J Dermatol 1989; 28: 591-4.
+30. World Health Organization. Ultraviolet Radiation (Envi-         50.   Green A, Battistutta D. Incidence and determinants of skin
+    ronmental Health Criteria 160). Geneva, Switzerland:                  cancer in a high-risk Australian population. Int J Cancer
+    WHO, 1994.                                                            1990; 46: 356-61.
+31. Elwood JM, Gallagher RP, Hill GB, Pearson JC. Cutaneous         51.   Strickland PT, Vitasa BC, West SK, et al. Quantitative
+    melanoma in relation to intermittent and constant sun                 carcinogenesis in man: solar ultraviolet B dose dependence
+    exposure—the Western Canada Melanoma Study. Int J                     of skin cancer in Maryland watermen. JNCI 1989; 81: 1910-
+    Cancer 1985; 35: 427-33.                                              3.
+32. Elwood JM, Gallagher RP. Sun exposure and the epidemiol-        52.   Magnus K. The Nordic profile of skin cancer incidence. A
+    ogy of melanoma. In: Gallagher RP, Elwood ME, eds.                    comparative epidemiological study of the three main types
+    Epidemiological Aspects of Cutaneous Malignant Mela-                  of skin cancer. Int J Cancer 1991; 47: 12-9.
+
+                                                                                               Cancer Causes and Control. Vol 8. 1997   281
+D.R. English et al
+
+
+ 53. Urbach F. Geographic pathology of skin cancer. In: Urbach        74. Vågerö D, Swerdlow AJ, Beral V. Occupation and malig-
+     F, ed. Biologic Effects of UVR with Emphasis on the Skin.            nant melanoma: a study based on cancer registration data
+     Oxford, UK: Pergamon Press, 1969: 635-50.                            in England and Wales and in Sweden. Br J Ind Med 1990;
+ 54. Grodstein F, Speizer FE, Hunter DJ. A prospective study              47: 317-24.
+     of incident squamous cell carcinoma of the skin in the           75. Horn EP, Hartge P, Shields JA, Tucker MA. Sunlight and
+     Nurses’ Health Study. JNCI 1995; 87: 1061-6.                         risk of uveal melanoma. JNCI 1994; 86: 1476-8.
+ 55. Ramani ML, Bennett RG. High prevalence of skin cancer            76. Coroneo MT, Muller-Stolzenburg NW, Ho A. Peripheral
+     in World War II servicemen stationed in the Pacific theater.         light focusing by the anterior eye and the ophthalmohe-
+     J Am Acad Dermatol 1993; 28: 733-7.                                  lioses. Ophthalmic Surg 1991; 22: 705-11.
+ 56. Urbach F, Rose DB, Bonnem M. Genetic and environ-                77. Narayanan P, Merriam JC, Vazquez ME, Dillon J. Experi-
+     mental interactions in skin carcinogenesis. Environmental            mental model of light focusing of the peripheral cornea.
+     Cancer. Baltimore, MD (USA): Williams & Wilkins, 1972:               Invest Ophthalmol Vis Sci 1996; 37: 37-41.
+     355-71.                                                          78. Holly EA, Aston DA, Char DH, Kristiansen JJ, Ahn DK.
+ 57. Gallagher RP, Hill GB, Bajdik CD, et al. Sunlight exposure,          Uveal melanoma in relation to ultraviolet light exposure
+     pigmentation factors, and risk of nonmelanocytic skin cancer.        and host factors. Cancer Res 1990; 50: 5773-7.
+     II. Squamous cell carcinoma. Arch Dermatol 1995; 131: 164-9.     79. Van Hees CL, De Boer A, Jager MJ, et al. Are atypical nevi
+ 58. Hogan DJ, Lane PR, Gran L, Wong D. Risk factors for                  a risk factor for uveal melanoma? A case-control study. J
+     squamous cell carcinoma of the skin in Saskatchewan,                 Invest Dermatol 1994; 103: 202-5.
+     Canada. J Dermatol Sci 1990; 1: 97-101.                          80. Gallagher RP, Elwood JM, Rootman J, et al. Risk factors
+ 59. Thompson SC, Jolley D, Marks R. Reduction of solar                   for ocular melanoma: Western Canada Melanoma Study.
+     keratoses by regular sunscreen use. N Engl J Med 1993;               JNCI 1985; 74: 775-8.
+     329: 1147-51.                                                    81. Tucker MA, Shields JA, Hartge P, et al. Sunlight exposure
+ 60. Naylor MF, Boyd A, Smith DW, Cameron GS, Hubbard                     as risk factor for intraocular malignant melanoma. N Engl
+     D, Neldner KH. High sun protection factor sunscreens in              J Med 1985; 313: 789-92.
+     the suppression of actinic neoplasia. Arch Dermatol 1995;        82. Seddon JM, Gragoudas ES, Glynn RJ, Egan KM, Albert
+     131: 170-5.                                                          DM, Blitzer PH. Host factors, UV radiation, and risk of
+ 61. Lerman S. Light induced changes in ocular tissues. In: Miller        uveal melanoma. A case-control study. Arch Ophthalmol
+     D, ed. Clinical Light Damage to the Eye. New York, NY                1990; 108: 1274-80.
+     (USA): Springer-Verlag, 1987: 183-215.                           83. Ajani UA, Seddon JM, Hsieh C-c, Egan KM, Albert DM,
+ 62. Neugut AI, Kizelnik-Freilich S, Ackerman C. Black-white              Gragoudas ES. Occupation and risk of uveal melanoma.
+     differences in risk for cutaneous, ocular, and visceral mela-        An exploratory study. Cancer 1992; 70: 2891-900.
+     nomas. Am J Public Health 1994; 84: 1828-9.                      84. Holly EA, Aston DA, Ahn DK, et al. Intraocular melanoma
+ 63. Polednak AP, Flannery JT. Brain, other central nervous               linked to occupations and chemical exposures. Epidemiol-
+     system, and eye cancer. Cancer 1995; 75: 330-7.                      ogy 1996; 7: 55-61.
+ 64. Raivio I. Uveal melanoma in Finland. An epidemiological,         85. Ni C, Searl SS, Kriegstein HJ, Wu BF. Epibulbar carcinoma.
+     clinical, histological and prognostic study. Acta Ophthal-           Int Ophthalmol Clin 1982; 22: 1-33.
+     mol 1977; Suppl: 1-64.                                           86. Newton R, Ferlay J, Reeves G, Beral V, Parkin DM. Effect
+ 65. Scotto J, Fraumeni JF Jr, Lee JA. Melanomas of the eye               of ambient solar ultraviolet radiation on incidence of
+     and other noncutaneous sites: epidemiologic aspects. JNCI            squamous-cell carcinoma of the eye. Lancet 1996; 347:
+     1976; 56: 489-91.                                                    1450-1.
+ 66. Gislason I, Magnusson B, Tulinius H. Malignant melanoma          87. Lee GA, Williams G, Hirst LW, Green AC. Risk factors
+     of the uvea in Iceland 1955-1979. Acta Ophthalmol                    in the development of ocular surface epithelial dysplasia.
+     (Copenh) 1985; 63: 389-94.                                           Ophthalmology 1994; 101: 360-4.
+ 67. Schwartz SM, Weiss NS. Place of birth and incidence of           88. Hall P, Rosendahl I, Mattsson A, Einhorn S. Non-
+     ocular melanoma in the United States. Int J Cancer 1988;             Hodgkin’s lymphoma and skin malignancies—shared
+     41: 174-7.                                                           etiology? Int J Cancer 1995; 62: 519-22.
+ 68. Doll R. Urban and rural factors in the aetiology of cancer.      89. Adami J, Frisch M, Yuen J, Glimelius B, Melbye M. Evi-
+     Int J Cancer 1991; 47: 803-10.                                       dence of an association between non-Hodgkin’s lymphoma
+ 69. Iscovich J, Ackerman C, Andreev H, Pe’er J, Steinitz R.              and skin cancer. Br Med J 1995; 310: 1491-5.
+     An epidemiological study of posterior uveal melanoma in          90. Frisch M, Melbye M. New primary cancers after squamous
+     Israel, 1961-1989. Int J Cancer 1995; 61: 291-5.                     cell skin cancer. Am J Epidemiol 1995; 141: 916-22.
+ 70. Saftlas AF, Blair A, Cantor KP, Hanrahan L, Anderson             91. Levi F, Randimbison L, Te VC, La Vecchia C. Non-
+     HA. Cancer and other causes of death among Wisconsin                 Hodgkin’s lymphomas, chronic lymphocytic leukaemias
+     farmers. Am J Ind Med 1987; 11: 119-29.                              and skin cancers. Br J Cancer 1996; 74: 1847-50.
+ 71. Gallagher RP, Elwood JM, Rootman J. Epidemiologic                92. Frisch M, Hjalgrim H, Olsen JH, Melbye M. Risk for
+     aspects of intraocular malignant melanoma. Cancer Treat              subsequent cancer after diagnosis of basal-cell carcinoma.
+     Res 1988; 43: 73-84.                                                 A population-based, epidemiologic study. Ann Int Med
+ 72. Milham SJ. Occupational Mortality in Washington State                1996; 125: 815-21.
+     1950-1979. Cincinnati, OH (USA): National Institute for          93. Wassberg C, Thorn M, Yuen J, Ringborg U, Hakulinen T.
+     Occupational Safety and Health. 1983; DHSS (NIOSH)                   Second primary cancers in patients with cutaneous malig-
+     Pub. No. 83-116.                                                     nant melanoma: a population-based study in Sweden. Br J
+ 73. Office of the Population Censuses and Surveys. Occupa-               Cancer 1996; 73: 255-9.
+     tional Mortality: the Registrar General’s Decennial Supplement   94. McMichael AJ, Giles GG. Have increases in solar ultraviolet
+     for Great Britain 1979-80, 1982-83. London, UK: Her                  exposure contributed to the rise in incidence of non-
+     Majesty’s Stationery Office, 1986; Series DS No. 6.                  Hodgkin’s lymphoma? Br J Cancer 1996; 73: 945-50.
+
+282 Cancer Causes and Control. Vol 8. 1997
+                                                                                                                     Sunlight and cancer
+
+
+ 95. Hartge P, Devesa SS, Grauman D, Fears TR, Fraumeni JF                cell carcinoma. Proc Natl Acad Sci USA 1991; 88: 10124-8.
+     Jr. Non-Hodgkin’s lymphoma and sunlight. JNCI 1996;             108. Pierceall WE, Mukhopadhyay T, Goldberg LH, Anan-
+     88: 298-300.                                                         thaswamy HN. Mutations in the p53 tumor suppressor
+ 96. Garland CF, Garland FC. Do sunlight and vitamin D reduce             gene in human cutaneous squamous cell carcinomas. Mol
+     the likelihood of colon cancer? Int J Epidemiol 1980; 9:             Carcinog 1991; 4: 445-9.
+     227-31.                                                         109. Ziegler A, Leffell DJ, Kunala S, et al. Mutation hotspots
+ 97. Garland FC, Garland CF, Gorham ED, Young JF. Geo-                    due to sunlight in the p53 gene of nonmelanoma skin
+     graphic variation in breast cancer mortality in the United           cancers. Proc Natl Acad Sci USA 1993; 90: 4216-20.
+     States: a hypothesis involving exposure to solar radiation.
+                                                                     110. Rady P, Scinicariello F, Wagner RF Jr, Tyring SK. p53
+     Prev Med 1990; 19: 614-22.
+                                                                          mutations in basal cell carcinomas. Cancer Res 1992; 52:
+ 98. Emerson JC, Weiss NS. Colorectal cancer and solar radia-
+                                                                          3804-6.
+     tion. Cancer Causes Control 1992; 3: 95-9.
+ 99. Gorham ED, Garland FC, Garland CF. Sunlight and breast          111. Molès JP, Moyret C, Guillot B, et al. p53 gene mutations
+     cancer incidence in the USSR. Int J Epidemiol 1990; 19:              in human epithelial skin cancers. Oncogene 1993; 8: 583-8.
+     820-4.                                                          112. Burns JE, Baird MC, Clark LJ, et al. Gene mutations and
+100. Brash DE. UV mutagenic photoproducts in Escherichia                  increased levels of p53 protein in human squamous cell
+     coli and human cells: a molecular genetics perspective on            carcinomas and their cell lines. Br J Cancer 1993; 67: 1274-84.
+     human skin cancer. Photochem Photobiol 1988; 48: 59-66.         113. van der Riet P, Karp D, Farmer E, et al. Progression of
+101. Freeman SE, Hacham H, Gange RW, Maytum DJ,                           basal cell carcinoma through loss of chromosome 9q and
+     Sutherland JC, Sutherland BM. Wavelength dependence of               inactivation of a single p53 allele. Cancer Res 1994; 54: 25-7.
+     pyrimidine dimer formation in DNA of human skin irra-           114. Ziegler A, Jonason AS, Leffell DJ, et al. Sunburn and p53
+     diated in situ with ultraviolet light. Proc Natl Acad Sci USA        in the onset of skin cancer. Nature 1994; 372: 773-6.
+     1989; 86: 5605-9.                                               115. Ziegler A, Jonason AS, Simon J, Leffell DJ, Brash DE.
+102. Sage E. Distribution and repair of photolesions in DNA:              Tumor suppressor gene mutations and photocarcinogenesis.
+     genetic consequences and the role of sequence context.               Photochem Photobiol 1996; 63: 432-5.
+     Photochem Photobiol 1993; 57: 163-74.
+                                                                     116. Nakazawa H, English D, Randell PL, et al. UV and skin
+103. Hutchinson F. Induction of tandem-base change mutations.
+                                                                          cancer: specific p53 gene mutation in normal skin as a
+     Mutat Res 1994; 309: 11-5.
+                                                                          biologically relevant exposure measurement. Proc Natl
+104. Kraemer KH, Lee MM, Andrews AD, Lambert WC. The
+                                                                          Acad Sci USA 1994; 91: 360-4.
+     role of sunlight and DNA repair in melanoma and non-
+     melanoma skin cancer. The xeroderma pigmentosum                 117. Daya-Grosjean L, Dumaz N, Sarasin A. The specificity of
+     paradigm. Arch Dermatol 1994; 130: 1018-21.                          p53 mutation spectra in sunlight induced human cancers.
+105. Bridges B. Sunlight, DNA damage and skin cancer: a new               J Photochem Photobiol B 1995; 28: 115-24.
+     perspective. Jpn J Cancer Res 1990; 81: 105-7.                  118. Pollock PM, Pearson JV, Hayward NK. Compilation of
+106. Barrett SF, Robbins JH, Tarone RE, Kraemer KH. Evidence              somatic mutations of the CDKN2 gene in human cancers
+     for defective repair of cyclobutane pyrimidine dimers with           – non-random distribution of base substitutions. Genes
+     normal repair of other DNA photoproducts in a transcrip-             Chromosom Cancer 1996; 15: 77-88.
+     tionally active gene transfected into Cockayne syndrome         119. Gailani MR, Leffell DJ, Ziegler A, Gross EG, Brash DE,
+     cells. Mutat Res 1991; 255: 281-91.                                  Bale AE. Relationship between sunlight exposure and a
+107. Brash DE, Rudolph JA, Simon JA, et al. A role for sunlight           key genetic alteration in basal cell carcinoma. JNCI 1996;
+     in skin cancer: UV-induced p53 mutations in squamous                 88: 349-54.
+
+
+
+
+                                                                                                Cancer Causes and Control. Vol 8. 1997   283
+
